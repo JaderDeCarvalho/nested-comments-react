@@ -1,7 +1,7 @@
 {
   "name": "nested_comments_react_ts",
   "version": "0.1.0",
-  "homepage": "https://JaderDeCarvalho.github.io/nested-comments-react",
+  "homepage": "https://jaderdecarvalho.github.io/nested-comments-react",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.7.1",
