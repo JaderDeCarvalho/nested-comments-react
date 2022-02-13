@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/nested-comments-react/static/css/main.31d6cfe0.css",
-    "main.js": "/nested-comments-react/static/js/main.ffa7aae6.js",
-    "static/js/787.88cbba79.chunk.js": "/nested-comments-react/static/js/787.88cbba79.chunk.js",
-    "index.html": "/nested-comments-react/index.html",
-    "main.ffa7aae6.js.map": "/nested-comments-react/static/js/main.ffa7aae6.js.map",
-    "787.88cbba79.chunk.js.map": "/nested-comments-react/static/js/787.88cbba79.chunk.js.map"
+    "main.css": "/static/css/main.31d6cfe0.css",
+    "main.js": "/static/js/main.90bed468.js",
+    "static/js/787.88cbba79.chunk.js": "/static/js/787.88cbba79.chunk.js",
+    "index.html": "/index.html",
+    "main.90bed468.js.map": "/static/js/main.90bed468.js.map",
+    "787.88cbba79.chunk.js.map": "/static/js/787.88cbba79.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
-    "static/js/main.ffa7aae6.js"
+    "static/js/main.90bed468.js"
   ]
 }
